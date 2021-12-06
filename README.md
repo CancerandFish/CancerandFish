@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Cancer from China and an AI engineer. This webpage is just for my interests.
+
+- 🔭 I’m currently working on fan-making movies by faceswap
+- 🌱 I’m currently learning any techniques that could help me build a fan-movie
+- 📫 You can reach me by weibo: @侃cancer
+
 
 <!--
 **CancerandFish/CancerandFish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
