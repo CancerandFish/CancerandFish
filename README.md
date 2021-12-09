@@ -1,4 +1,4 @@
-### Hi there 👋 I am Cancer from China and am an AI engineer currently. 
+### Hi there 👋 I am Cancer and am an AI engineer in Japan currently. 
 
 - 🔭 I’m currently working on fan-making movies by faceswap
 - 🌱 I’m currently learning any techniques that could help me build a fan-movie
